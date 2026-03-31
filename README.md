@@ -24,7 +24,6 @@
 - 📋 **Copy button** — copy any found username to clipboard with one click
 - ⏳ **Rate-limit handling** — automatically waits and retries when GitHub rate-limits you
 - ⏹ **Stop & Resume** — stop the scan at any time; restart with the same or a new file
-- 🟣 **Clean UI** — dark purple theme inspired by [muezza.at](https://muezza.at)
 
 ---
 
